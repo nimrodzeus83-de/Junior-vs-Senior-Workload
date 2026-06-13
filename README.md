@@ -16,6 +16,8 @@ To support the analysis, a bell-shaped curve was used as a visualization tool. T
 * Alternative Hypothesis (HA)- There is a significant difference between the workload of Junior and Senior Employees.
 * 
 # Analysis and Findings:
+* Junior Level - Mean: 3.046511627906977, Standard Deviation: 1.4193209658228474, Variance: 2.0144720040243005
+* Senior Level - Mean: 2.9476145930776427, Standard Deviation: 1.3858117380870323, Variance: 1.9204741734198014
 * Degree of Freedom: 1669
 * T- Critical Value:  1.9613863711666333
 * T-Statistics: 1.3883022853292168
@@ -28,9 +30,10 @@ Based on the number of P-Value which is higher than alpha level of 0.05, It is c
 * A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
 
 # Standard Deviation
+*  It is a statistical measure that quantifies how spread out the values in a dataset are from the average (mean).
 
 # Variance 
-
+*  It is the measure of how much values in a data set differ or spread out from their average (mean).
 
 # Degree of Freedom(df)
 * It is represented as the number of independent values or parameters in a system that have the freedom to vary without viollating eastbalished constraints.
