@@ -24,6 +24,14 @@ To support the analysis, a bell-shaped curve was used as a visualization tool. T
 Based on the number of P-Value which is higher than alpha level of 0.05, It is concluded that 
 "There is no significant difference between the workload of Junior and Senior Employees", and when you look at the graph named "unpaired_analysis.png" of this report it is shown that Workload of Junior and Senior Level graph was almost overlapped to each other which is caused by the number of their workloads was the almost the same between Junior and Senior Job Level.
 
+# Mean 
+* A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
+
+# Standard Deviation
+
+# Variance 
+
+
 # Degree of Freedom(df)
 * It is represented as the number of independent values or parameters in a system that have the freedom to vary without viollating eastbalished constraints.
   
