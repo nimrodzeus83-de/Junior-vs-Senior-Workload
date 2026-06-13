@@ -2,11 +2,11 @@
 This is my summarization of all the reports that I did in this analysis between Junior Level and Senior Level Workloads.
 
 # Background:
-In this report, I used data on the workloads of Junior and Senior employees and applied an Independent t-test. This statistical test is used to determine whether there is a significant difference between the mean workloads of two independent groups.
+In this report, I used the data on the workloads of Junior and Senior employees and applied an Independent t-test. This statistical test is used to determine whether there is a significant difference between the mean workloads of two independent groups.
 
-The purpose of this analysis is to compare the workloads of Junior and Senior employees and determine if the difference between them is statistically significant. Understanding workload differences is important for effective workforce management, operational efficiency, and sustainable team growth. It can help organizations identify potential issues such as employee burnout, excessive workload distribution, and unfair compensation that may not match employees' responsibilities.
+The purpose of this analysis is to compare the workloads of Junior and Senior employees and to determine whether the difference between them is statistically significant. Understanding workload differences is important for effective workforce management, operational efficiency, and sustainable team growth. It can help organizations identify potential issues such as employee burnout, excessive workload distribution, and unfair compensation that may not match employees' responsibilities.
 
-To support the analysis, a bell-shaped curve was used as a visualization tool. The bell curve helps show how the workload data are distributed around the average (mean). A wider curve indicates that workloads vary greatly among employees, while a narrower curve indicates that workloads are more consistent and clustered around the average. This visualization makes it easier to understand the spread and variation of workloads within each job level.
+To support the analysis, a bell-shaped curve was used as a visualization tool. The bell curve helps shows that a wider curve indicates that workloads vary greatly among employees, while a narrower curve indicates that workloads are more consistent and clustered around the average. This visualization makes it easier to understand the spread and variation of workloads within each job level. and due to their workload differences the results tells us that workload of junior level have much more varied workload than senior level due the standard deviation of junior level results higher than senior level.
 
 
 # Objective:
