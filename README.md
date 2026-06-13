@@ -1,4 +1,5 @@
 # Junior vs Senior Workload 
+This is my summarization of all the reports that I did in this analysis between Junior Level and Senior Level Workloads.
 
 # Background:
 In this report, I used data on the workloads of Junior and Senior employees and applied an Independent t-test. This statistical test is used to determine whether there is a significant difference between the mean workloads of two independent groups.
