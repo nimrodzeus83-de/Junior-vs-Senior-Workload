@@ -6,8 +6,7 @@ In this report, I used the data on the workloads of Junior and Senior employees 
 
 The purpose of this analysis is to compare the workloads of Junior and Senior employees and to determine whether the difference between them is statistically significant. Understanding workload differences is important for effective workforce management, operational efficiency, and sustainable team growth. It can help organizations identify potential issues such as employee burnout, excessive workload distribution, and unfair compensation that may not match employees' responsibilities.
 
-To support the analysis, a bell-shaped curve was used as a visualization tool. The bell curve helps shows that a wider curve indicates that workloads vary greatly among employees, while a narrower curve indicates that workloads are more consistent and clustered around the average. This visualization makes it easier to understand the spread and variation of workloads within each job level. and due to their workload differences the results tells us that workload of junior level have much more varied workload than senior level due the standard deviation of junior level results higher than senior level.
-
+To support my analysis, I used the bar chart as my graph analysis model in this study to show how the Junior and Senior Level became differ in terms of their workload rates by diffferentiating them using their average or mean. And the graph shows that Junior level has much higher but almost near to the Senior level which is suggested that they don't have much differences with their workloads.
 
 # Objective:
 * The objective of this report is to analyze the significant differences of Junior and Senior Level Workload using the Independent paired T-test.
