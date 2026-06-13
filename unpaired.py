@@ -34,20 +34,50 @@ if p_value < alpha:
 else:
   print("There is no significant difference between the workload of Junior and Senior Employees")
 
+df_filtered = df[df["JobLevel"].isin(["Junior", "Senior"])]
 
-sns.kdeplot(junior_level, label="Junior Level", fill=True)
-sns.kdeplot(senior_level, label="Senior Level", fill=True)
-plt.title(f"Distribution between Job level and Work Load of Employees",
-          fontsize=15,
-          fontweight="bold")
+
+workload_mean = (
+    df_filtered
+    .groupby("JobLevel")["Workload"]
+    .mean()
+)
+
+ax = workload_mean.plot(
+    kind="bar",
+    figsize=(8, 6)
+)
+
+for container in ax.containers:
+    ax.bar_label(
+        container,
+        fmt="%.2f",
+        fontsize=10,
+        fontweight="bold"
+    )
+
+plt.title(
+    "Average Workload by Job Level",
+    fontsize=15,
+    fontweight="bold"
+)
+
+plt.xlabel(
+    "Job Level",
+    fontsize=12,
+    fontweight="bold"
+)
+
+plt.ylabel(
+    "Average Workload",
+    fontsize=12,
+    fontweight="bold"
+)
+
+plt.xticks(rotation=0)
+plt.grid(axis="y", linestyle="--", alpha=0.7)
 
 plt.tight_layout()
-
-plt.xlabel("Workload",fontsize=15,fontweight="bold")
-plt.ylabel("Frequency",fontsize=15,fontweight="bold")
-
-plt.legend()
-plt.savefig("unpaired_analysis.png")
 plt.show(block=True)
 
 
