@@ -2,11 +2,11 @@
 This is my summarization of all the reports that I did in this analysis between Junior Level and Senior Level Workloads.
 
 # Background:
-In this report, I used the data on the workloads of Junior and Senior employees and applied an Independent t-test. This statistical test is used to determine whether there is a significant difference between the mean workloads of two independent groups.
+In this report, I used the data on the workloads of Junior and Senior employees and applied an Independent t-test this statistical test is used to determine whether there is a significant difference between the mean workloads of two independent groups.
 
 The purpose of this analysis is to compare the workloads of Junior and Senior employees and to determine whether the difference between them is statistically significant. Understanding workload differences is important for effective workforce management, operational efficiency, and sustainable team growth. It can help organizations identify potential issues such as employee burnout, excessive workload distribution, and unfair compensation that may not match employees' responsibilities.
 
-To support my analysis, I used the bar chart as my graph analysis model in this study to show how the Junior and Senior Level became differ in terms of their workload rates by diffferentiating them using their average or mean. And the graph shows that Junior level has much higher but almost near to the Senior level which is suggested that they don't have much differences with their workloads and it is proven by our p-values below.
+To support my analysis, I used the bar chart as my graph analysis model in this study to show how the Junior and Senior Level became differ in terms of their workloads by diffferentiating them using their average or mean. And the graph shows that Junior level has much higher but almost near to the Senior level which is concluded that they don't have much differences with their workloads and it is proven by our p-values below.
 
 # Objective:
 * The objective of this report is to analyze the significant differences of Junior and Senior Level Workload using the Independent paired T-test.
