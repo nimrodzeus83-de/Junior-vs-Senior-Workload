@@ -2,7 +2,7 @@
 This is my summarization of all the reports that I did in this analysis between Junior Level and Senior Level Workloads.
 
 # Background:
-In this report, I used the data on the workloads of Junior and Senior employees and applied an Independent t-test this statistical test is used to determine whether there is a significant difference between the mean workloads of two independent groups.
+In this report, I used the data on the workloads of Junior and Senior employees and applied an Independent t-test this statistical test is used to determine whether there is a significant or larger difference between the mean workloads of two independent groups.
 
 The purpose of this analysis is to compare the workloads of Junior and Senior employees and to determine whether the difference between them is statistically significant. Understanding workload differences is important for effective workforce management, operational efficiency, and sustainable team growth. It can help organizations identify potential issues such as employee burnout, excessive workload distribution, and unfair compensation that may not match employees' responsibilities.
 
