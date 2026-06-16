@@ -24,7 +24,7 @@ To support my analysis, I used the bar chart as my graph analysis model in this 
 * P-Value: 0.1652302835172021
 
 Based on the number of P-Value which is higher than alpha level of 0.05, It is concluded that 
-"There is no significant difference between the workload of Junior and Senior Employees", and when you look at the graph named "unpaired_analysis.png" of this report it is shown that Workload of Junior and Senior Level graph was almost overlapped to each other which is caused by the number of their workloads was the almost the same between Junior and Senior Job Level.
+"There is no significant difference between the workload of Junior and Senior Employees", and when you look at the graph named "unpaired_analysis.png" of this report it is shown that Workload of Junior and Senior Level mean of two variables in the graph was almost near to each other which is caused by the number of their workloads was almost same between Junior and Senior Job Level.
 
 # Mean 
 * A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
