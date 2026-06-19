@@ -57,9 +57,9 @@ A threshold that tell's the test whether to accept the null hypothesis(not signi
 It  measures how different two group averages (means) of the variables are and a relative to the random noise in the data. It acts as a ratio of "signal" to "noise," where a higher absolute value indicates a more significant difference.
 
 * P-Value:
-- It measures the probability of your test experiment's whether it results happened by a random chance.
-- Low p-value means "highly significant and unlikely to be a coincidence
-- High p-value means "small chance to be true due to a random noise"
+   - It measures the probability of your test experiment's whether it results happened by a random chance.
+   - Low p-value means "highly significant and unlikely to be a coincidence
+   - High p-value means "small chance to be true due to a random noise"
 
 # File source:
 - <a href="https://github.com/nimrodzeus83-de/Junior-vs-Senior-Workload/blob/main/employee.csv">Employee.csv</a>
