@@ -14,10 +14,20 @@ To support my analysis, I used the bar chart as my graph analysis model in this 
 # Hypothesis:
 * Null Hypothesis (H0)- There is no significant difference between the workload of Junior and Senior Employees.
 * Alternative Hypothesis (HA)- There is a significant difference between the workload of Junior and Senior Employees.
-* 
+  
 # Analysis and Findings:
-* Junior Level - Mean: 3.046511627906977, Standard Deviation: 1.4193209658228474, Variance: 2.0144720040243005
-* Senior Level - Mean: 2.9476145930776427, Standard Deviation: 1.3858117380870323, Variance: 1.9204741734198014
+![Alt Text](https://github.com/nimrodzeus83-de/Junior-vs-Senior-Workload/blob/main/unpaired.png)
+
+* Junior Level:
+  - Mean: 3.046511627906977
+  - Standard Deviation: 1.4193209658228474
+  - Variance: 2.0144720040243005
+    
+* Senior Level:
+  - Mean: 2.9476145930776427
+  - Standard Deviation: 1.3858117380870323
+  - Variance: 1.9204741734198014
+    
 * Degree of Freedom: 1669
 * T- Critical Value:  1.9613863711666333
 * T-Statistics: 1.3883022853292168
@@ -26,28 +36,34 @@ To support my analysis, I used the bar chart as my graph analysis model in this 
 Based on the number of P-Value which is higher than alpha level of 0.05, It is concluded that 
 "There is no significant difference between the workload of Junior and Senior Employees", and when you look at the graph named "unpaired_analysis.png" of this report it is shown that Workload of Junior and Senior Level mean of two variables in the graph was almost near to each other which is caused by the number of their workloads was almost same between Junior and Senior Job Level.
 
-# Mean 
-* A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
+# Statistical Measures used:
 
-# Standard Deviation
-*  It is a statistical measure that quantifies how spread out the values in a dataset are from the average (mean).
+* Mean 
+- A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
 
-# Variance 
-*  It is the measure of how much values in a data set differ or spread out from their average (mean).
+* Standard Deviation
+-  It is a statistical measure that quantifies how spread out the values in a dataset are from the average (mean).
 
-# Degree of Freedom(df)
-* It is represented as the number of independent values or parameters in a system that have the freedom to vary without viollating eastbalished constraints.
+* Variance 
+-  It is the measure of how much values in a data set differ or spread out from their average (mean).
+
+* Degree of Freedom(df)
+- It is represented as the number of independent values or parameters in a system that have the freedom to vary without viollating eastbalished constraints.
   
-# T-Critical Value 
-*A threshold that tell's the test whether to accept the null hypothesis(not significant) or  reject the null hypothesis(significant). 
+* T-Critical Value 
+- A threshold that tell's the test whether to accept the null hypothesis(not significant) or  reject the null hypothesis(significant). 
 
-# T-Statistics
-* It  measures how different two group averages (means) of the variables are and a relative to the random noise in the data. It acts as a ratio of "signal" to "noise," where a higher absolute value indicates a more significant difference.
+* T-Statistics
+- It  measures how different two group averages (means) of the variables are and a relative to the random noise in the data. It acts as a ratio of "signal" to "noise," where a higher absolute value indicates a more significant difference.
 
-# P-Value 
-* It measures the probability of your test experiment's whether it results happened by a random chance.
-* Low p-value means "highly significant and unlikely to be a coincidence
-* High p-value means "small chance to be true due to a random noise"
+* P-Value 
+- It measures the probability of your test experiment's whether it results happened by a random chance.
+- Low p-value means "highly significant and unlikely to be a coincidence
+- High p-value means "small chance to be true due to a random noise"
 
-* File source: Kaggle.com, new_data.csv
+# File source:
+- <a href="https://github.com/nimrodzeus83-de/Junior-vs-Senior-Workload/blob/main/employee.csv">Employee.csv</a>
+
+# Source Code:
+- <a href="https://github.com/nimrodzeus83-de/Junior-vs-Senior-Workload/blob/main/unpaired.py">Unpaired.py</a>
 * Tools used: VS Code, Python 
