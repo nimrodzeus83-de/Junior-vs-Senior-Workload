@@ -39,22 +39,22 @@ Based on the number of P-Value which is higher than alpha level of 0.05, It is c
 # Statistical Measures Used:
 
 * Mean:
-- A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
+A statistical measurement of central tendency that represents the mathetical center of the dataset and it is calculated by adding all the data points together and dividing the sum by the total number of points.
 
 * Standard Deviation:
-- It is a statistical measure that quantifies how spread out the values in a dataset are from the average (mean).
+It is a statistical measure that quantifies how spread out the values in a dataset are from the average (mean).
 
 * Variance:
-- It is the measure of how much values in a data set differ or spread out from their average (mean).
+It is the measure of how much values in a data set differ or spread out from their average (mean).
 
 * Degree of Freedom(df):
-- It is represented as the number of independent values or parameters in a system that have the freedom to vary without viollating eastbalished constraints.
+It is represented as the number of independent values or parameters in a system that have the freedom to vary without viollating eastbalished constraints.
   
 * T-Critical Value:
-- A threshold that tell's the test whether to accept the null hypothesis(not significant) or  reject the null hypothesis(significant). 
+A threshold that tell's the test whether to accept the null hypothesis(not significant) or  reject the null hypothesis(significant). 
 
 * T-Statistics:
-- It  measures how different two group averages (means) of the variables are and a relative to the random noise in the data. It acts as a ratio of "signal" to "noise," where a higher absolute value indicates a more significant difference.
+It  measures how different two group averages (means) of the variables are and a relative to the random noise in the data. It acts as a ratio of "signal" to "noise," where a higher absolute value indicates a more significant difference.
 
 * P-Value:
 - It measures the probability of your test experiment's whether it results happened by a random chance.
