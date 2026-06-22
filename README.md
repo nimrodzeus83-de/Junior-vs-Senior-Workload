@@ -1,6 +1,15 @@
 # Junior vs Senior Workload 
 This is my summarization of all the reports that I did in this analysis between Junior Level and Senior Level Workloads.
 
+# Scenario:
+ - A management wants to know the workload balance between junior and senior level for them to be bale to have a fair and balanced distribution of their task, and these are the ratings that came from the junior and senior  employees abou their workload:
+ - Rating	Description
+ - 1	Very Light Workload
+ - 2	Light Workload
+ - 3	Moderate Workload
+ - 4	Heavy Workload
+ - 5	Very Heavy Workload
+   
 # Background:
 In this report, I used the data on the workloads of Junior and Senior employees and applied an Independent t-test this statistical test is used to determine whether there is a significant or larger difference between the mean workloads of two independent groups.
 
@@ -9,7 +18,10 @@ The purpose of this analysis is to compare the workloads of Junior and Senior em
 To support my analysis, I used the bar chart as my graph analysis model in this study to show how the Junior and Senior Level became differ in terms of their workloads by diffferentiating them using their average or mean. And the graph shows that Junior level has much higher but almost near to the Senior level which is concluded that they don't have much differences with their workloads and it is proven by our p-values below.
 
 # Objective:
-* The objective of this report is to analyze the significant differences of Junior and Senior Level Workload using the Independent paired T-test.
+* The objective of this report:
+* To analyze the significant differences of Junior and Senior Level Workload using the Independent paired T-test.
+* To know which employee between junior and senior has a high number of total workloads based from their average or mean.
+* To Identify if the senior level has a high workload than junior level.
 
 # Hypothesis:
 * Null Hypothesis (H0)- There is no significant difference between the workload of Junior and Senior Employees.
